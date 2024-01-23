@@ -1,6 +1,153 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k 
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-KQ45A68
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-07
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::ccd6:5952:257f:99e4%7(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 403308583
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-F8-79-CD-38-F3-AB-B0-DD-53
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : EC-63-D7-95-6E-11
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : EE-63-D7-95-6E-10
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter
+   Physical Address. . . . . . . . . : 00-C0-CA-B5-9F-F9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::5e1f:39f3:3968:6fcc%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.81.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, January 22, 2024 3:45:03 PM
+   Lease Expires . . . . . . . . . . : Monday, January 22, 2024 9:18:07 PM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.81.254
+   DHCPv6 IAID . . . . . . . . . . . : 905990230
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-F8-79-CD-38-F3-AB-B0-DD-53
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6fcf:b4b3:ea36:4dd2%20(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.32.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, January 22, 2024 3:45:13 PM
+   Lease Expires . . . . . . . . . . : Monday, January 22, 2024 9:18:07 PM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.32.254
+   DHCPv6 IAID . . . . . . . . . . . : 939544662
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-F8-79-CD-38-F3-AB-B0-DD-53
+   Primary WINS Server . . . . . . . : 192.168.32.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : 22-C3-7E-7D-7B-34
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f069:a0ab:b07f:31d9%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.18(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, January 18, 2024 7:38:26 AM
+   Lease Expires . . . . . . . . . . : Tuesday, January 23, 2024 3:45:05 PM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 287490942
+   DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-22-C3-7E-7D-7B-34
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : EC-63-D7-95-6E-14
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-38-01-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::43b9:4ed3:ab2c:dd40%55(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.27.240.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 922752349
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-F8-79-CD-38-F3-AB-B0-DD-53
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 00-15-5D-BF-FC-7E
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::7006:8c50:80ca:7ebd%70(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.19.192.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1174410589
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-F8-79-CD-38-F3-AB-B0-DD-53
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
