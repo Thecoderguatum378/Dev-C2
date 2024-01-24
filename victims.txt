@@ -1,7 +1,7 @@
 Made By DEV, pakistanzindabd on discord
 All rights belong to Imran Memon
 Victim Connected:
-CWD: C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0
+CWD: C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fdfeb4d42dbef781
 Local Ip:192.168.1.18
 Device Name:DESKTOP-KQ45A68
 Operating system:Microsoft Windows NT 10.0.22631.0
