@@ -1,10 +1,15 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k TASKKILL /IM chrome.exe
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 34304.
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 11812.
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 10300.
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k Net user
+
+User accounts for \\DESKTOP-KQ45A68
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+Lenovo                   sussyuser                WDAGUtilityAccount       
+The command completed successfully.
+
 
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
