@@ -5,3 +5,4 @@ CWD: C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0
 Local Ip:192.168.1.18
 Device Name:DESKTOP-KQ45A68
 Operating system:Microsoft Windows NT 10.0.22631.0
+Sys Directory:C:\WINDOWS\system32
