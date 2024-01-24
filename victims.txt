@@ -1,1 +1,1 @@
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0
+fe80::f069:a0ab:b07f:31d9%17
