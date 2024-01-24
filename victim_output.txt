@@ -1,15 +1,73 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k Net user
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k ipconfig
 
-User accounts for \\DESKTOP-KQ45A68
+Windows IP Configuration
 
--------------------------------------------------------------------------------
-Administrator            DefaultAccount           Guest                    
-Lenovo                   sussyuser                WDAGUtilityAccount       
-The command completed successfully.
 
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::ccd6:5952:257f:99e4%7
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::5e1f:39f3:3968:6fcc%4
+   IPv4 Address. . . . . . . . . . . : 192.168.81.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::6fcf:b4b3:ea36:4dd2%20
+   IPv4 Address. . . . . . . . . . . : 192.168.32.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f069:a0ab:b07f:31d9%17
+   IPv4 Address. . . . . . . . . . . : 192.168.1.18
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::43b9:4ed3:ab2c:dd40%55
+   IPv4 Address. . . . . . . . . . . : 172.27.240.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7006:8c50:80ca:7ebd%70
+   IPv4 Address. . . . . . . . . . . : 172.19.192.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
 
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
