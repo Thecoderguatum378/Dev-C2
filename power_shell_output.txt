@@ -1,9 +1,1 @@
-Windows PowerShell
-Copyright (C) Microsoft Corporation. All rights reserved.
 
-Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
-
-PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> whoami
-desktop-kq45a68\lenovo
-PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> 
-PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> 
