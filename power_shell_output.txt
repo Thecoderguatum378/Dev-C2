@@ -1,1 +1,12 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
 
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> Get-Date
+
+Thursday, January 25, 2024 3:46:23 PM
+
+
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> 
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> 
