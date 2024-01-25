@@ -5,7 +5,7 @@ Install the latest PowerShell for new features and improvements! https://aka.ms/
 
 PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> Get-Date
 
-Wednesday, January 24, 2024 7:53:34 PM
+Wednesday, January 24, 2024 7:53:48 PM
 
 
 PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> 
