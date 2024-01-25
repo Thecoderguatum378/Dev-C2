@@ -1,9 +1,1 @@
-Made By DEV, pakistanzindabd on discord
-All rights belong to Imran Memon
-Victim Connected:
-CWD: C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0
-Local Ip:192.168.1.35
-Device Name:DESKTOP-KQ45A68
-Operating system:Microsoft Windows NT 10.0.22631.0
-Sys Directory:C:\WINDOWS\system32
-Type of OS (Windows):A 64 bit OS.
+
