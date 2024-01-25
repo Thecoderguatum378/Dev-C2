@@ -1,2 +1,2 @@
-Get-Item
+Get-Date
 
