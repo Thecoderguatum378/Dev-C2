@@ -6,4 +6,4 @@ Local Ip:192.168.1.35
 Device Name:DESKTOP-KQ45A68
 Operating system:Microsoft Windows NT 10.0.22631.0
 Sys Directory:C:\WINDOWS\system32
-Drives on Current Computer:True
+Drives on Current Computer:true
