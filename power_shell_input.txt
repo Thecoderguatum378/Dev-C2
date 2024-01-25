@@ -1,1 +1,2 @@
-Get-Process
+Test-Connection google.com
+
