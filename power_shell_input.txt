@@ -1,2 +1,2 @@
-Test-Connection google.com
+Get-Date
 
