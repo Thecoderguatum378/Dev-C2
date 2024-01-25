@@ -1,1 +1,17 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
 
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> Get-Item
+
+Get-Item : Cannot bind argument to parameter 'Path' because it is an empty array.
+At line:1 char:1
++ Get-Item
++ ~~~~~~~~
+    + CategoryInfo          : InvalidData: (:) [Get-Item], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorEmptyArrayNotAllowed,Microsoft.PowerShell.Commands.GetIt 
+   emCommand
+ 
+
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Release\net6.0> 
