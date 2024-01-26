@@ -1,10 +1,7 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01>cmd /k TASKKILL /IM chrome.exe
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 38088.
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 40192.
-SUCCESS: Sent termination signal to the process "chrome.exe" with PID 34848.
+C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01>cmd /k cd Desktop
 
 C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01>
 C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01>
