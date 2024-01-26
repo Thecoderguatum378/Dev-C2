@@ -1,8 +1,19 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k start cmd.exe
-
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k curl -s ipinfo.io/json
+{
+  "ip": "68.225.240.203",
+  "hostname": "ip68-225-240-203.oc.oc.cox.net",
+  "city": "Rancho Santa Margarita",
+  "region": "California",
+  "country": "US",
+  "loc": "33.6409,-117.6031",
+  "org": "AS22773 Cox Communications Inc.",
+  "postal": "92688",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
