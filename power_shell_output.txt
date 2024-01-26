@@ -3,6 +3,8 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> Start-Process cmd.exe
-PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> 
+PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> cmd /k whoami
+desktop-kq45a68\lenovo
+
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> 
 PS C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0> 
