@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k start powershell.exe
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k curl discord.com
 
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
