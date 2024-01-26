@@ -6,3 +6,4 @@ TASKKILL - Kill a task on the victims machine
 TASKLIST - Get running tasks on the victim
 IPCONFIG - Users Ip configuration
 curl -s ipinfo.io/json - Get their public/vpn IP address
+ P.S- PowerShell Commands may take up to 20 minutes to be fully executed
