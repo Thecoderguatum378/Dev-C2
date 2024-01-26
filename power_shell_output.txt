@@ -3,7 +3,5 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01> cmd /k Get-Date
-
+PS C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01> cmd /k 
 C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01>PS C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01> 
-PS C:\Users\Lenovo\AppData\Local\Apps\2.0\1Z38Y4NN.YCK\NXMW6T11.HNH\c23...tion_0000000000000000_0001.0000_fffaf3c224cfdc01> 
