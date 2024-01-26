@@ -1,1 +1,1 @@
-CMD/Power-shell help
+CMD/Power-shell example commands:Net user - Get users on the victims specified systemGet-Date - Get's the date and time of the victimstart/Start-Process - Start a new local process on the victims machine.TASKKILL - Kill a task on the victims machineTASKLIST - Get running tasks on the victimIPCONFIG - Users Ip configurationcurl -s ipinfo.io/json - Get their public/vpn IP address
