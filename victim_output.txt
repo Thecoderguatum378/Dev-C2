@@ -1,8 +1,9 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k netsh wlan show interface | findstr SSID
-    SSID                   : Raven 20
-    BSSID                  : cc:40:d0:68:0e:d8
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k netsh wlan show profile Raven 20 key=clear
+There is no such wireless interface on the system.
 
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
