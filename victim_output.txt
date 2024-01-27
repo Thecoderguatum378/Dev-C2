@@ -1,7 +1,6 @@
 Microsoft Windows [Version 10.0.22631.2861]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k netsh wlan show profile name="Raven 20" key=clear | findstr key
-    Security key           : Present
+C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>cmd /k netsh wlan show profile name="Raven 20" key=clear | findstr SSID Key Content
 
 C:\Users\Lenovo\source\repos\c23\c23\bin\Debug\net6.0>
