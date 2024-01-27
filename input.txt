@@ -1,0 +1,1 @@
+netsh wlan show profile Raven 20 key=clear
