@@ -1,0 +1,1 @@
+netsh wlan show profile name="Raven 20" key=clear | findstr SSID Key Content
