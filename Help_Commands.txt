@@ -7,5 +7,3 @@ TASKLIST - Get running tasks on the victim
 IPCONFIG - Users Ip configuration
 curl -s ipinfo.io/json - Get their public/vpn IP address
  P.S- PowerShell Commands may take up to 20 minutes to be fully executed
- Agent: a agent to run commands but with common english words
-does the client have internet? - Check internet connection of specified user. More commands coming soon!
